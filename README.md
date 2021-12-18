@@ -15,7 +15,7 @@ Singleton
 Structural Patterns:
 Adapter,
 Bridge,
-COmposite,
+Composite,
 Decorator,
 Fascade,
 Flyweight,
