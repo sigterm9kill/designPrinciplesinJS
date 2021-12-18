@@ -1,4 +1,6 @@
 # designPrinciplesinJS
+# currently in process, check back -- Dec 17 2021
+
 Using SOLID, I am walking through principles and their violations in a js/node env.
 
 
