@@ -5,33 +5,33 @@ Using SOLID, I am walking through principles and their violations in a js/node e
 from GoF, to be covered...
 
 Creational Paterns:
-Builder
-Factories 
-    -Abstract factories
-    -Factory method
-Protype
+Builder,
+Factories,
+    -Abstract factories,
+    -Factory method,
+Protype,
 Singleton
 
 Structural Patterns:
-Adapter
-Bridge
-COmposite
-Decorator
-Fascade
-Flyweight
+Adapter,
+Bridge,
+COmposite,
+Decorator,
+Fascade,
+Flyweight,
 Proxy
 
 Behavioral Patterns: 
-Chain of Responsibility
-COmmand
-Interpreter
-Iterator
-Mediator
-Memento
-Observer
-State
-Strategy
-Template Method
+Chain of Responsibility,
+Command,
+Interpreter,
+Iterator,
+Mediator,
+Memento,
+Observer,
+State,
+Strategy,
+Template Method,
 Visitor
 
 The SOLID principles:  
