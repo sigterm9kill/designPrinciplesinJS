@@ -1,0 +1,16 @@
+{
+  "name": "designpatternsjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jasmine": "^3.10.0"
+  }
+}
