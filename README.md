@@ -7,7 +7,8 @@ Using SOLID, I am walking through principles and their violations in a js/node e
 from GoF, to be covered...
 
 Creational Paterns:
-Builder,
+Builder: When piecewise object construction is complicated, provied an API for doing it succintly, i.e., html tags upon tags.
+    -Builder Facets (Using sub builders, all contributing to a base class builder for a single object with many different facets by using a fluent interface)
 Factories,
     -Abstract factories,
     -Factory method,
