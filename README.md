@@ -9,9 +9,10 @@ from GoF, to be covered...
 Creational Paterns:
 Builder: When piecewise object construction is complicated, provied an API for doing it succintly, i.e., html tags upon tags.
     -Builder Facets (Using sub builders, all contributing to a base class builder for a single object with many different facets by using a fluent interface)
-Factories,
+Factories: Object creation becomes too convoluted, Initializer is not descriptive: Name is always __init__, Cannot overload with the same arguments with different names, can turn into 'optional parameter hell'. The point is to be able to do wholesale object createion (non-piecewise, unlike Builder): Generally outsourced to =>
     -Abstract factories,
     -Factory method,
+        Definition: A factory is a component that is responsible solely for the wholesale as opposed to the piecewise creation of objects.
 Protype,
 Singleton
 
