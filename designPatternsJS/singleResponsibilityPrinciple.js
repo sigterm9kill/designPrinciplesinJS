@@ -3,7 +3,7 @@
 const fs = require('fs');
 
 /* Example of grouping functionality by class using the first
-principle of SOLID design principle: Single Responsibility Principle */
+principle of SOLID design principle: Single Responsibility Principle*/
 
 // Class 1
 class Journal {
